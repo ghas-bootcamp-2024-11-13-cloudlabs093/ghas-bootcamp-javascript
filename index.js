@@ -1,3 +1,4 @@
+var secret = "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"
 var chownr = require('chownr')
 var tar = require('tar-stream')
 var pump = require('pump')
