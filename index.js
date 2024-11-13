@@ -1,3 +1,4 @@
+var secret2 = "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"
 var secret = "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"
 var chownr = require('chownr')
 var tar = require('tar-stream')
